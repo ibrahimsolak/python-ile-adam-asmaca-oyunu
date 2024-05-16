@@ -52,7 +52,7 @@ resim = ["""
        |
 --------"""]
 
-kelimeler = ["kiraz", "zencefil", "zerdeçal", "mango", "şans", "narkoz", "timur", "güneysudan", "şampuan", "moderasyon",
+kelimeler = ["ANKARA", "ZENCİ", "OSTİM", "ATATÜRK", "EMİNEHOCA", "İNGİLİZCE", "timur", "güneysudan", "şampuan", "moderasyon",
              "cebelitarık", "liberya", "palau", "argüman", "operatör"]
 flag = True
 while flag:
